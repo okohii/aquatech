@@ -101,6 +101,7 @@ input::placeholder {
   text-align: center;
   font-size: 15px;
   font-weight:550;
+  opacity: 60%;
 }
 
 .banner .container p {
